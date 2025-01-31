@@ -14,7 +14,7 @@ Welcome to **E-Commerce**, a sleek and modern Flutter-based e-commerce app desig
 
 - **Flutter** – Cross-platform mobile app development  
 - **Dart** – Programming language  
-- **Provider/Bloc** – State management (if applicable)  
+- **Provider/Bloc** – State management  
 
 
 ## 📦 Installation  
